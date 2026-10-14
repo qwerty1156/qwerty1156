@@ -1,16 +1,19 @@
-## Hi there 👋
+# Backend, AI integrations & product experiments
 
-<!--
-**qwerty1156/qwerty1156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Python backend services, AI integrations and small product experiments.
+My workflow combines AI-assisted implementation with runnable checks and explicit limitations.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus | Evidence |
+| --- | --- | --- |
+| [AI Job Analyzer](https://github.com/qwerty1156/ai-job-analyzer) | Resume matching, FastAPI, authentication, background jobs | API source, tests and a local end-to-end demo |
+| [QueueHire](https://github.com/qwerty1156/queuehire) | Repair of an existing multi-tenant backend; billing, concurrency and migrations | Corrected challenge, regression tests and PostgreSQL CI |
+| [Demo Clinic](https://github.com/qwerty1156/demo_clinic_universal) | Telegram appointment requests, SQLite, channel adapters | Booking flow, offline core demo and setup instructions |
+
+## Current direction
+
+Python backend development, API integrations and practical automation.
+I am interested in small, clearly scoped projects with a testable outcome.
+
+Earlier HTML/CSS repositories document my learning history.
